@@ -4,7 +4,6 @@ A Data Science project developed during the **Week 3 & Week 4 Internship** to an
 
 ## 🚀 Live Demo
 
-* **Streamlit App:** https://salesforecasting-prabhu0712.streamlit.app/
 * **Google Colab Notebook:** https://colab.research.google.com/drive/19pf1xlMEbBqAlajWyfyzYzW67G__3KYS?usp=sharing
 
 ---
